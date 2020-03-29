@@ -45,6 +45,8 @@ nav ul li{
 ul {
     width: 676px;
     margin: auto;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 h2 {
@@ -72,4 +74,3 @@ footer strong{
     text-transform: uppercase; 
     font-size: 1.5em;
 }
-
